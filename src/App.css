@@ -1,0 +1,40 @@
+.boxnm {
+    width: 100%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.boxs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    box-sizing: border-box;
+    gap: 30px;
+    margin-top: 5px;
+}
+
+main {
+    margin-top: 10px;
+}
+
+time.days {
+    color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 2px 3px 8px 9px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 50%;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 15px;
+    border-radius: 3%;
+}
